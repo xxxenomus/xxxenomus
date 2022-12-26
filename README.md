@@ -1,13 +1,13 @@
-# General information
-<br></br>
-*College student (2020-2024)
-*I currently live in Lithuania
+## General information
+* College student (2020-2024)
+* Currently live in Lithuania
 
-# Skills
-<br></br>
-*C++
-*C#
-*Java
-*Python
-*SQL
-*HTML, CSS, JS
+## Skills
+* C++
+* C#
+* Java
+* Python
+* SQL
+* HTML, CSS, JS
+
+<i> Software is like sex: it’s better when it’s free. – Linus Torvalds </i>
