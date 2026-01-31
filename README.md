@@ -1,1 +1,1 @@
-w gyat
+computer is cool
